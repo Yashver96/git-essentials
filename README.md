@@ -1,2 +1,2 @@
-# git-essentials
-Some new stuff in here.
+# git-essentials course
+This is related to git essetials course
